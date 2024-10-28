@@ -3,20 +3,39 @@
   "WorkspaceRootPath": "C:\\Users\\laboratorio\\Documents\\GitHub\\JuanGallardoExam1\\JuanGallardo_Exam1P\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FAD4C286-A579-4740-965C-3CB397BBE1A4}|JuanGallardo_Exam1P.csproj|c:\\users\\laboratorio\\documents\\github\\juangallardoexam1\\juangallardo_exam1p\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FAD4C286-A579-4740-965C-3CB397BBE1A4}|JuanGallardo_Exam1P.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{FAD4C286-A579-4740-965C-3CB397BBE1A4}|JuanGallardo_Exam1P.csproj|c:\\users\\laboratorio\\documents\\github\\juangallardoexam1\\juangallardo_exam1p\\views\\jgmodel1\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FAD4C286-A579-4740-965C-3CB397BBE1A4}|JuanGallardo_Exam1P.csproj|solutionrelative:views\\jgmodel1\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD4C286-A579-4740-965C-3CB397BBE1A4}|JuanGallardo_Exam1P.csproj|c:\\users\\laboratorio\\documents\\github\\juangallardoexam1\\juangallardo_exam1p\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FAD4C286-A579-4740-965C-3CB397BBE1A4}|JuanGallardo_Exam1P.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD4C286-A579-4740-965C-3CB397BBE1A4}|JuanGallardo_Exam1P.csproj|c:\\users\\laboratorio\\documents\\github\\juangallardoexam1\\juangallardo_exam1p\\views\\jgmodel1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FAD4C286-A579-4740-965C-3CB397BBE1A4}|JuanGallardo_Exam1P.csproj|solutionrelative:views\\jgmodel1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/JuanGallardo_Exam1PDB/True/SqlTable/dbo.JGmodel1.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FAD4C286-A579-4740-965C-3CB397BBE1A4}|JuanGallardo_Exam1P.csproj|c:\\users\\laboratorio\\documents\\github\\juangallardoexam1\\juangallardo_exam1p\\controllers\\jgmodel1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FAD4C286-A579-4740-965C-3CB397BBE1A4}|JuanGallardo_Exam1P.csproj|solutionrelative:controllers\\jgmodel1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FAD4C286-A579-4740-965C-3CB397BBE1A4}|JuanGallardo_Exam1P.csproj|c:\\users\\laboratorio\\documents\\github\\juangallardoexam1\\juangallardo_exam1p\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FAD4C286-A579-4740-965C-3CB397BBE1A4}|JuanGallardo_Exam1P.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD4C286-A579-4740-965C-3CB397BBE1A4}|JuanGallardo_Exam1P.csproj|c:\\users\\laboratorio\\documents\\github\\juangallardoexam1\\juangallardo_exam1p\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FAD4C286-A579-4740-965C-3CB397BBE1A4}|JuanGallardo_Exam1P.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FAD4C286-A579-4740-965C-3CB397BBE1A4}|JuanGallardo_Exam1P.csproj|c:\\users\\laboratorio\\documents\\github\\juangallardoexam1\\juangallardo_exam1p\\models\\jgmodel1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FAD4C286-A579-4740-965C-3CB397BBE1A4}|JuanGallardo_Exam1P.csproj|solutionrelative:models\\jgmodel1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laboratorio\\Documents\\GitHub\\JuanGallardoExam1\\JuanGallardo_Exam1P\\Migrations\\20241028153641_Inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241028153641_Inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FAD4C286-A579-4740-965C-3CB397BBE1A4}|JuanGallardo_Exam1P.csproj|c:\\users\\laboratorio\\documents\\github\\juangallardoexam1\\juangallardo_exam1p\\migrations\\20241028153641_inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAD4C286-A579-4740-965C-3CB397BBE1A4}|JuanGallardo_Exam1P.csproj|solutionrelative:migrations\\20241028153641_inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +45,70 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\laboratorio\\Documents\\GitHub\\JuanGallardoExam1\\JuanGallardo_Exam1P\\Views\\JGmodel1\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\JGmodel1\\Create.cshtml",
+              "ToolTip": "C:\\Users\\laboratorio\\Documents\\GitHub\\JuanGallardoExam1\\JuanGallardo_Exam1P\\Views\\JGmodel1\\Create.cshtml",
+              "RelativeToolTip": "Views\\JGmodel1\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T16:08:05.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "dbo.JGmodel1.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/JuanGallardo_Exam1PDB/True/SqlTable/dbo.JGmodel1.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/JuanGallardo_Exam1PDB/True/SqlTable/dbo.JGmodel1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-28T16:00:32.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\laboratorio\\Documents\\GitHub\\JuanGallardoExam1\\JuanGallardo_Exam1P\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\laboratorio\\Documents\\GitHub\\JuanGallardoExam1\\JuanGallardo_Exam1P\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T15:52:41.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\laboratorio\\Documents\\GitHub\\JuanGallardoExam1\\JuanGallardo_Exam1P\\Views\\JGmodel1\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\JGmodel1\\Index.cshtml",
+              "ToolTip": "C:\\Users\\laboratorio\\Documents\\GitHub\\JuanGallardoExam1\\JuanGallardo_Exam1P\\Views\\JGmodel1\\Index.cshtml",
+              "RelativeToolTip": "Views\\JGmodel1\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T15:51:50.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\laboratorio\\Documents\\GitHub\\JuanGallardoExam1\\JuanGallardo_Exam1P\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\laboratorio\\Documents\\GitHub\\JuanGallardoExam1\\JuanGallardo_Exam1P\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T15:51:08.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "20241028153641_Inicio.cs",
               "DocumentMoniker": "C:\\Users\\laboratorio\\Documents\\GitHub\\JuanGallardoExam1\\JuanGallardo_Exam1P\\Migrations\\20241028153641_Inicio.cs",
               "RelativeDocumentMoniker": "Migrations\\20241028153641_Inicio.cs",
@@ -38,38 +116,35 @@
               "RelativeToolTip": "Migrations\\20241028153641_Inicio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T15:36:42.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T15:36:42.041Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\laboratorio\\Documents\\GitHub\\JuanGallardoExam1\\JuanGallardo_Exam1P\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\laboratorio\\Documents\\GitHub\\JuanGallardoExam1\\JuanGallardo_Exam1P\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-28T15:35:31.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T15:35:31.007Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "JGmodel1Controller.cs",
               "DocumentMoniker": "C:\\Users\\laboratorio\\Documents\\GitHub\\JuanGallardoExam1\\JuanGallardo_Exam1P\\Controllers\\JGmodel1Controller.cs",
               "RelativeDocumentMoniker": "Controllers\\JGmodel1Controller.cs",
               "ToolTip": "C:\\Users\\laboratorio\\Documents\\GitHub\\JuanGallardoExam1\\JuanGallardo_Exam1P\\Controllers\\JGmodel1Controller.cs",
               "RelativeToolTip": "Controllers\\JGmodel1Controller.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAmwGMAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T15:35:08.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T15:35:08.443Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "JGmodel1.cs",
               "DocumentMoniker": "C:\\Users\\laboratorio\\Documents\\GitHub\\JuanGallardoExam1\\JuanGallardo_Exam1P\\Models\\JGmodel1.cs",
               "RelativeDocumentMoniker": "Models\\JGmodel1.cs",
@@ -77,8 +152,7 @@
               "RelativeToolTip": "Models\\JGmodel1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T15:33:42.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T15:33:42.465Z"
             }
           ]
         }

@@ -256,3 +256,4 @@ C:\Users\laboratorio\Documents\GitHub\JuanGallardoExam1\JuanGallardo_Exam1P\bin\
 C:\Users\laboratorio\Documents\GitHub\JuanGallardoExam1\JuanGallardo_Exam1P\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\laboratorio\Documents\GitHub\JuanGallardoExam1\JuanGallardo_Exam1P\obj\Debug\net8.0\JuanGallardo_Exam1P.csproj.AssemblyReference.cache
 C:\Users\laboratorio\Documents\GitHub\JuanGallardoExam1\JuanGallardo_Exam1P\obj\Debug\net8.0\JuanGall.AF9CD42C.Up2Date
+C:\Users\laboratorio\Documents\GitHub\JuanGallardoExam1\JuanGallardo_Exam1P\obj\Debug\net8.0\JuanGallardo_Exam1P.sourcelink.json

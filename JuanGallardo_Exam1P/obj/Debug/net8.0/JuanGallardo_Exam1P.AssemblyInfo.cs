@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JuanGallardo_Exam1P")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cd07e8837dcfc9c516f1b969157455d4e4f991e")]
 [assembly: System.Reflection.AssemblyProductAttribute("JuanGallardo_Exam1P")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JuanGallardo_Exam1P")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
